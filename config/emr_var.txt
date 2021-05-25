@@ -1,0 +1,6 @@
+Name, LogUri, AdditionalInfo, AmiVersion, 
+ReleaseLabel, Instances, Steps, BootstrapActions, 
+SupportedProducts, NewSupportedProducts, Applications, 
+Configurations, VisibleToAllUsers, JobFlowRole, ServiceRole, 
+Tags, SecurityConfiguration, AutoScalingRole, ScaleDownBehavior, 
+CustomAmiId, EbsRootVolumeSize, RepoUpgradeOnBoot, KerberosAttributes
